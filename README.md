@@ -62,3 +62,11 @@ Decoded y[2] = 7
 Decoded y[3] = 12
 Decoded y[6] = 39
 The secret (constant term c) is: 3
+OUTPUT FOR TEST CASE 1:
+Decoded y[1] = 4 
+Decoded y[2] = 7 
+Decoded y[3] = 12
+Decoded y[6] = 39
+The secret (constant term c) is: 3
+OUTPUT FOR TEST CASE 2:
+Decoded y[1] = 13444211440455345511 Decoded y[2] = 123
